@@ -1,0 +1,26 @@
+#-f https://download.pytorch.org/whl/torch_stable.html
+ConfigArgParse==0.14.0
+#fasttext==0.8.2
+msgpack==0.6.1
+nltk==3.4.5
+pygtrie==2.3
+PyYAML==5.1.1
+regex==2018.1.10
+sentencepiece==0.1.82
+spacy==2.0.13
+tensorflow==1.15.2
+tensorflow-hub==0.4.0
+#torch==1.1.0
+#torchvision==0.3.0
+tqdm==4.30.0
+#git+https://github.com/pytorch/text.git@master#wheel=torchtext
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.0.0/en_core_web_sm-2.0.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.0.0/en_core_web_md-2.0.0.tar.gz
+https://github.com/huggingface/neuralcoref-models/releases/download/en_coref_md-3.0.0/en_coref_md-3.0.0.tar.gz
+numpy==1.18.1
+pandas==0.25.3
+translators==4.4.3
+jieba==0.42.1
+googletrans==2.4.0
+sklearn==0.0
+translate==3.5.0
